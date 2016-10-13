@@ -28,6 +28,7 @@
 	// Make it pretty for manual user access (and why not?)
 ?>
 <!DOCTYPE HTML>
+<a href="javascript:;" onclick="alert('here');">Working</a>
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
